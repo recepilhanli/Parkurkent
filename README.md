@@ -9,6 +9,7 @@ I made this game for my homework, a simple game that contains parkour movements.
 ## Controls
 
 **A,D** -> Movement
+
 **Space** -> Jump
 
 
