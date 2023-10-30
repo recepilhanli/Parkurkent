@@ -21,3 +21,5 @@ Rope Physics
 
 [![Gameplay Video](https://img.youtube.com/vi/cXY1XZUkrWE/0.jpg)](https://youtu.be/cXY1XZUkrWE)
 
+*Note:* İ didn't pay much attention to the project, so the asset directory is a bit messy.
+
